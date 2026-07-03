@@ -1,0 +1,1 @@
+ Hermes to create marketing videos for Douyin, including the implementation of skills such as image generation, material production, camera movement and background music, as well as the standard operating procedure (SOP) workflow for marketing campaigns.
